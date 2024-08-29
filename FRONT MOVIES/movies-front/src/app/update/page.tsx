@@ -44,6 +44,9 @@ export default function Page() {
     }
   };
 
+
+  //juan prueba de repositorio ignorar esta linea
+  
   // Maneja el envío del formulario
   const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault(); // Previene el comportamiento por defecto del formulario
